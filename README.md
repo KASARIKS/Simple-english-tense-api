@@ -5,6 +5,7 @@ For starting:
    
 API:
 /gettense?tense="sometense"
+
 "sometense" can be equalled to:
 simplepresent
 presentcontinuos
